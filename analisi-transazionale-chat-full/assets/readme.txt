@@ -1,0 +1,1 @@
+Puoi mettere qui immagini avatar (es: eric.png, user.png).
